@@ -1,0 +1,7 @@
+fastapi
+geocoder
+gunicorn
+pydantic
+uvicorn
+uvloop
+httptools
